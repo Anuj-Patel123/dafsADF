@@ -1,0 +1,22 @@
+ body{
+    background-image: url("music.avif");
+    background-size: cover;
+ }
+ .heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    margin-bottom: 30px;
+}
+.note
+{
+    font-size: 15px;
+    color:black;
+}
+canvas
+{
+    border: 5px solid black;
+    border-radius:20px;
+    box-shadow:5px 5px 4px grey;
+    color: rgb(255, 255, 255);
+}
